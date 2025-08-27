@@ -1,5 +1,5 @@
 import React from "react";
-import Shopbycatagory from "../components/shopbycatagory";
+import Shopbycatagory from "../components/Shopbycategory";
 import ProductTabs from "../components/ProductTabs";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";

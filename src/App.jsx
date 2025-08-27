@@ -1,7 +1,7 @@
 import { Route, Router, Routes } from "react-router";
 import "./App.css";
 import Home from "./pages/Home";
-import Shopbycatagory from "./components/shopbycatagory";
+import Shopbycatagory from "./components/Shopbycategory";
 import Footer from "./components/Footer";
 import ProductView from "./pages/ProductView";
 import ProductListing from "./pages/ProductListing";
